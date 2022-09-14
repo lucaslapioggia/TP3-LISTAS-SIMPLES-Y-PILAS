@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1601661561 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Listas.h"
+	"Persona.h"
+	"Funtions.h"
+	"TDA_PILA.h"
+
+1601662893 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\listasc.c
+	"Listas.h"
+	"Persona.h"
+	"Funtions.h"
+
+1601612794 n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+
+1600484014 n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601602438 n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\funtions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	"Listas.h"
+
+1601662648 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\funtions.c
+	<stdio.h>
+	<stdlib.h>
+	"Funtions.h"
+	"Listas.h"
+	"Persona.h"
+	"string.h"
+
+1600210327 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+	"Listas.h"
+	"Funtions.h"
+
+1601597809 n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\tda_pila.h
+	"Listas.h"
+	"Funtions.h"
+
+1601662893 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\pilas2.c
+	"pilas2.h"
+
+1601612958 n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\pilas2.h
+	"listas.h"
+	"PERSONA.h"
+
+1601613127 source:n:\nico\programacion\segundo cuatrimestre\laboratorio y programacion 2\trabajos practicos\trabajos practicos\tp1 listas simples\tda_pila.c
+	"TDA_PILA.h"
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\funtions.c
+	<stdio.h>
+	<stdlib.h>
+	"Funtions.h"
+	"Listas.h"
+	"Persona.h"
+	"string.h"
+
+1602862426 c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\funtions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	"Listas.h"
+
+1602862426 c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Persona.h"
+
+1602862426 c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\listasc.c
+	"Listas.h"
+	"Persona.h"
+	"Funtions.h"
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Listas.h"
+	"Persona.h"
+	"Funtions.h"
+	"TDA_PILA.h"
+	"pilas2.h"
+
+1602862426 c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\tda_pila.h
+	"Listas.h"
+	"Funtions.h"
+
+1602862426 c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\pilas2.h
+	"listas.h"
+	"PERSONA.h"
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+	"Listas.h"
+	"Funtions.h"
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\pilas2.c
+	"pilas2.h"
+	"Persona.h"
+	"Listas.h"
+	"Funtions.h"
+
+1602862426 source:c:\users\usuario\desktop\tp-listas-simples-lapioggia lucas\tp-listas-simples-lapioggia\tda_pila.c
+	"TDA_PILA.h"
+
